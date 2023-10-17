@@ -10,14 +10,14 @@
 This jupyter notebook provides a recommendation system for articles available on the IBM platform. This repository is structured as described below. 
 
 	- udacity_recommendation_engine/
-		- README.md
+	- README.md
         - project_tests.py
         - Recommendations_with_IBM.html
         - Recommendations_with_IBM.ipynb
         - user_item_matrix.p
-		- data/
-			- article_community.csv
-			- user-article-interactions.csv
+	- data/
+		- article_community.csv
+		- user-article-interactions.csv
  
 ## Licensing, Authors, Acknowledgements
 
